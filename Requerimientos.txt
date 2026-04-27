@@ -21,3 +21,11 @@ RF 4.3 El usuario tendrá una opción de cancelación de compra.
 RF 4.4 El usuario puede ver la fecha en la que llegará el producto 
 RF 5.1 El sistema contará con 4 métodos de pago que son: nequi, daviplata, transacción bancaria y pago contraentrega.
 RF 5.2 El sistema mostrará los productos seleccionados por el usuario y la sumatoria del total que deberá pagar.
+Jose Ignacio Molina
+RF 5.3 El sistema tendrá la opción de quitar elementos del carrito o sumar cantidad de un producto.
+RF 5.4 El sistema le enviará un mensaje al cliente en el que se le pide consignar el dinero de la compra.
+RF 5.5 Si solo se va a realizar la compra de un producto será mandado de una vez a proseguir con la compra del producto.
+RF 5.6 El sistema le permitirá al usuario dirigirse a la opción de "catálogo de productos".
+RF 5.7 El sistema enviará una factura electrónica.
+RF 5.8 El Sistema permitira pedir productos que ya esten agotados
+
