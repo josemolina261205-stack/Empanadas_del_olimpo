@@ -14,3 +14,10 @@ RF 2.8 En la cuenta del Gerente de la empresa el sistema permitirá acceder a un
 RF 2.9 El sistema le permitirá al gerente confirmar los pedidos pagados para poder ser enviados.
 RF 3.1 El sistema mostrará un espacio en el cual el usuario podrá dar sus quejas y reclamos.
 RF 3.2El sistema tendrá la opción de calificar la página por un método de estrellas.
+Erick Jhair Cuchivague Ruiz
+Rf 3.3 El sistema le mostrará al gerente los mensajes, quejas y peticiones de los usuarios.
+RF 4.1 El usuario tendrá su perfil personal en cual podrá ver sus datos personales.
+RF 4.3 El usuario tendrá una opción de cancelación de compra.
+RF 4.4 El usuario puede ver la fecha en la que llegará el producto 
+RF 5.1 El sistema contará con 4 métodos de pago que son: nequi, daviplata, transacción bancaria y pago contraentrega.
+RF 5.2 El sistema mostrará los productos seleccionados por el usuario y la sumatoria del total que deberá pagar.
